@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/401-advanced-javascript-anas/storefront/pull/2)
 - [Heroku]()
 
 
@@ -22,4 +22,4 @@
 
 #### UML
 
-![UML Diagram](./assests/store.png)
+![UML Diagram](./assests/uml.png)
