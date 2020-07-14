@@ -1,0 +1,33 @@
+h5{
+    font-size: 19px;
+    letter-spacing: 3px;
+    position: absolute;
+    top: 0%;
+    left: 85%;
+    font-family: cursive;
+}
+
+ div.MuiPaper-root.MuiCard-root.MuiPaper-elevation1.MuiPaper-rounded  {
+    background-color: antiquewhite;
+    text-align: center;
+    margin: 0% 1% 2% 2%;
+    padding: 1% 1% 1% 1%;
+}
+
+.MuiCard-root {
+    background-color: antiquewhite;
+}
+
+div#cart{
+    width: 17%;
+    background-color: antiquewhite;
+    border-radius: 15px;
+    position: absolute;
+    top: 12%;
+    left: 79.75%;
+    text-align: center;
+}
+
+h2.MuiTypography-root.MuiTypography-h5.MuiTypography-gutterBottom{
+    font-weight: 700;
+}

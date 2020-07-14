@@ -3,15 +3,15 @@ import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
 
 import App from './app';
-import store from './store/index.js'
-import './style.scss'
+import store from './store/index.js';
+import './style.scss';
 
 function Main(){
-    return(
-        <Provider store={store}>
-            <App />
-        </Provider>
-    )
+  return(
+    <Provider store={store}>
+      <App />
+    </Provider>
+  );
 }
 
 const rootElement = document.getElementById('root');

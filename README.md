@@ -22,4 +22,4 @@
 
 #### UML
 
-![UML Diagram](./assests/todo.png)
+![UML Diagram](./assests/store.png)

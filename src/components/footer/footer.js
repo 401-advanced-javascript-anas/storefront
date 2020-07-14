@@ -1,14 +1,14 @@
 import React from 'react';
-import './footer.scss'
+import './footer.scss';
 
 const Header = () =>{
 
-    return(
-        <footer class="footer">
-        <h1>© 2020 Anas Zain</h1>
+  return(
+    <footer class="footer">
+      <h1>©2020 Anas Zain</h1>
         
-        </footer>
-    )
-}
+    </footer>
+  );
+};
 
 export default Header;

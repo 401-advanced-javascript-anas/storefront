@@ -1,14 +1,14 @@
 import React from 'react';
-import './header.scss'
+import './header.scss';
 
 const Header = () =>{
 
-    return(
-        <header class="header">
-        <h1>OUR STORE</h1>
+  return(
+    <header class="header">
+      <h1>ANAS STORE</h1>
         
-        </header>
-    )
-}
+    </header>
+  );
+};
 
 export default Header;
